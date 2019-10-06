@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.607c652d.chunk.css",
+    "main.js": "/static/js/main.63d60e76.chunk.js",
+    "main.js.map": "/static/js/main.63d60e76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c5683173.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c5683173.js.map",
+    "static/js/2.6559ce75.chunk.js": "/static/js/2.6559ce75.chunk.js",
+    "static/js/2.6559ce75.chunk.js.map": "/static/js/2.6559ce75.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.29523195cbdd7906588fed3386981500.js": "/precache-manifest.29523195cbdd7906588fed3386981500.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.607c652d.chunk.css.map": "/static/css/main.607c652d.chunk.css.map",
+    "static/media/admin.png": "/static/media/admin.b1dfbe43.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.5209029d.png",
+    "static/media/cpp_logo.png": "/static/media/cpp_logo.a4d0aa87.png",
+    "static/media/index.css": "/static/media/profile.98c7a947.jpeg",
+    "static/media/mongoDB.png": "/static/media/mongoDB.7a20defb.png",
+    "static/media/programmer (1).png": "/static/media/programmer (1).6bfdab2e.png",
+    "static/media/programmer1.png": "/static/media/programmer1.12305a23.png",
+    "static/media/react.png": "/static/media/react.2260eb1a.png"
+  }
+}
