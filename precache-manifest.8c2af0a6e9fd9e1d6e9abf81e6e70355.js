@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90007013ea6e950691e5dd1dfb9c9e63",
+    "revision": "8dc8f42c47dcaac467bf406686d65b93",
     "url": "/index.html"
   },
   {
-    "revision": "7d8d917e43725163031b",
-    "url": "/static/css/main.607c652d.chunk.css"
+    "revision": "516addf26410080a4a70",
+    "url": "/static/css/main.008b6860.chunk.css"
   },
   {
-    "revision": "f35ed9100bf06d33b338",
-    "url": "/static/js/2.6559ce75.chunk.js"
+    "revision": "959bfebcd3e3f395fb90",
+    "url": "/static/js/2.b3c9305f.chunk.js"
   },
   {
-    "revision": "7d8d917e43725163031b",
-    "url": "/static/js/main.63d60e76.chunk.js"
+    "revision": "516addf26410080a4a70",
+    "url": "/static/js/main.c2a9fe32.chunk.js"
   },
   {
     "revision": "a6e3dc98bf14d00cdb8a",
@@ -32,12 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cpp_logo.a4d0aa87.png"
   },
   {
+    "revision": "02711c2cf037c786ebb844af1328f809",
+    "url": "/static/media/django-icon.02711c2c.jpg"
+  },
+  {
     "revision": "347098113cffb94d36323b473e47f676",
     "url": "/static/media/image.34709811.jpeg"
   },
   {
     "revision": "7a20defbbdfe7a8163762518e853552c",
     "url": "/static/media/mongoDB.7a20defb.png"
+  },
+  {
+    "revision": "41be624d4cb978a12d07fb583f3ff283",
+    "url": "/static/media/postgres.41be624d.jpg"
   },
   {
     "revision": "98c7a94734d2a553a013116f3a200535",
