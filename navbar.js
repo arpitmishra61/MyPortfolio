@@ -16,7 +16,7 @@ $(document).ready(function () {
     let home = $("#home");
     let about = $("#about");
     let skills = $("#skills");
-    let projects = $("#projects");
+    let projects = $("#localprojects");
 
     let achievements = $("#achievements");
     let contact = $("#contact")
