@@ -58,9 +58,7 @@ export default function LocalProjects() {
                                         <hr />
 
                                         <a className="btn btn-outline-info btn-sm " href='https://github.com/arpitmishra61/Blog-Django' target='_blank'>Github</a>
-                                        <a className="btn btn-dark btn-sm" href="https://github.com/arpitmishra61/Blog-Django">
-                                            Live
-                                            </a>
+                                        
                                     </div>
 
 
@@ -83,8 +81,8 @@ export default function LocalProjects() {
                                             <img src={require("../gallary/nodejs.png")} alt=""
                                                 className="img-fluid" /></div>
                                         <hr />
-                                        <button className="btn btn-outline-info btn-sm mx-1">Github</button>
-                                        <button className="btn btn-dark btn-sm">Live</button>
+                                        <a href=" https://github.com/arpitmishra61/movie" className="btn btn-outline-info btn-sm mx-1">Github</a>
+                                        <a href="https://moviesearching.netlify.com" className="btn btn-dark btn-sm">Live</a>
                                     </div>
 
                                 </div>
@@ -134,8 +132,8 @@ export default function LocalProjects() {
                                             <img src={require("../gallary/javascript.png")} alt=""
                                                 className="img-fluid" /></div>
                                         <hr />
-                                        <a className="btn btn-outline-info btn-sm " href='https://github.com/arpitmishra61/NewsFeed' target='_blank'>Github</a>
-                                        <a className="btn btn-dark btn-sm" href="https://github.com/arpitmishra61/NewsFeed">
+                                        <a className="btn btn-outline-info btn-sm " href='https://github.com/arpitmishra61/news' target='_blank'>Github</a>
+                                        <a className="btn btn-dark btn-sm" href="https://newsfeedsglobal.netlify.com/">
                                             Live
                                             </a>
                                     </div>
@@ -157,7 +155,7 @@ export default function LocalProjects() {
                                                 className="img-fluid" /></div>
                                         <hr />
                                         <a className="btn btn-outline-info btn-sm " href='https://github.com/arpitmishra61/attendence' target='_blank'>Github</a>
-                                        <button className="btn btn-dark btn-sm">Live</button>
+                                       
                                     </div>
                                 </div>
 
