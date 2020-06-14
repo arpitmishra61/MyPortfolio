@@ -34,7 +34,7 @@ export default function AboutMe() {
                                     <div className="my-4 adminPhoto">
                                         <div className='adminOverlay'></div>
 
-                                        <img src={require("../gallary/profile/arpit.png")} alt="Arpit Mishra"
+                                        <img src={require("../gallary/profile/test.jpg")} alt="Arpit Mishra"
 
                                             title="Arpit Mishra"
 
