@@ -1,4 +1,4 @@
-<div style={{ backgroundColor: "rgba(255, 255, 254, 0.37)" }}>
+<div style={{ backgroundColor: "rgba(255, 255, 254, 0.36)" }}>
                     <div className=" ">
                         <div className="row p-4">
                             <div className="col-3">
