@@ -6,7 +6,7 @@ export default function Extra() {
             <div className="bg-info m-0 p-4 px-1">
                 <h1 className=" text-center  text-white"> <strong>What I love</strong> </h1>
                 <p className="detail">I really love to design Responsive
-            appliactions. </p>
+            applications. </p>
             </div>
 
             <div className="section  text-center p-4 mt-4 ">
